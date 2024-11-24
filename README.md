@@ -24,6 +24,6 @@ Hi, I'm **Alex Fernandez Valladares**, a passionate and driven **DevOps Engineer
 ## 🌍 Let's Connect!  
 🌐 Visit my [Website](https://www.alexfernandez.org/)  
 💼 Check out my [LinkedIn](https://www.linkedin.com/in/alex-fernandez-valladares)  
-📧 Reach me at **alex@alexfernandez.org**  
+📧 Reach me at **alexfernandezvalladares@gmail.com**  
 
 
